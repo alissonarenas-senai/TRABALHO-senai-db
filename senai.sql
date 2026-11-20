@@ -20,9 +20,9 @@ SET time_zone = "+00:00";
 --
 -- Banco de dados: `senai`
 --
-
+create database senai;
 -- --------------------------------------------------------
-
+use senai;
 --
 -- Estrutura para tabela `componentes_maq`
 --
